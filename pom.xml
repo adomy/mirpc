@@ -19,7 +19,7 @@
 
     <modules>
         <module>mirpc-core</module>
-        <module>mirpc-admin</module>
+        <module>mirpc-registry</module>
         <module>mirpc-samples</module>
     </modules>
 
